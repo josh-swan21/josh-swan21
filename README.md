@@ -5,6 +5,7 @@ Analytics engineer in Oklahoma City. By day I build loan operations reporting fo
 **Working with:** SQL (SQL Server, PostgreSQL, Snowflake) · dbt · Python (pandas) · Power BI · Tableau · Git
 
 **Projects**
+- [retail-analytics-pipeline](https://github.com/josh-swan21/retail-analytics-pipeline): a Python batch loader that turns raw Shopify exports into validated Snowflake tables, published in one transaction with rollback, plus dbt staging and mart models with tests.
 - [time-on-task-explorer](https://github.com/josh-swan21/time-on-task-explorer): a Streamlit dashboard that recreates a player time-allocation tool from my Oklahoma City Thunder internship, built on fictional data with a 13-table SQL model, CTEs and window functions.
 
 **Currently:** finishing an MS in Business Analytics & Data Science at Oklahoma State in 2027 and studying for the dbt Analytics Engineering certification.
